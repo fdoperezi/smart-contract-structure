@@ -7,12 +7,12 @@
     ```sh
     yarn
     ```
-    
+
 1. Install [mythril](https://github.com/ConsenSys/mythril), a security analysis tool for Ethereum smart contracts
 
     ```sh
     # You will need python3 and pip3 for this to work
-    pip3 install mythril 
+    pip3 install mythril
     ```
 
 ## Running the tests
@@ -165,10 +165,10 @@ In the active stage, a token will produce monthly payouts and will be sent to ow
 * [zeppelin-solidity v1.3.0](https://github.com/OpenZeppelin/zeppelin-solidity/releases)
 
 ## Authors
-* **Marius Hanne** - *Initial work* - [mhanne](https://github.com/mhanne)
-* **Adrian Kizlauskas** - *Initial work* - [dissaranged](https://github.com/dissaranged)
-* **Cody Lamson** - *Initial work* - [TovarishFin](https://github.com/TovarishFin)
-* **Matt Stevens** - *Initial work* - [mattgstevens](https://github.com/mattgstevens)
+* **Cody Lamson** - *BrickblockToken, CustomPOAToken, BrickblockAccessToken, BrickblockAccount, POAToken2, WarpTool, BrickblockWhitelist, BrickblockFeeManager* - [TovarishFin](https://github.com/TovarishFin)
+* **Matt Stevens** - *BrickblockToken, CustomPOAToken, POAToken, BrickblockUmbrella, BrickblockWhitelist* - [mattgstevens](https://github.com/mattgstevens)
+* **Adrian Kizlauskas** - *BrickblockToken, CustomPOAToken POAToken, BrickblockUmbrella* - [dissaranged](https://github.com/dissaranged)
+* **Marius Hanne** - *POAToken, BrickblockUmbrella* - [mhanne](https://github.com/mhanne)
 
 ## License
 
